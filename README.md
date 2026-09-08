@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shiro</h1>
-<p align="center">Windows performance tooling &amp; desktop apps — shipped with AI-assisted vibe coding</p>
+<p align="center">Windows performance tooling and desktop apps, shipped with AI-assisted vibe coding</p>
 
 ---
 
 ### 🧠 About me
 
-- 🖥️ I build **Windows optimization and system tooling** — desktop apps plus the backend services behind them
-- 🤖 I work **AI-first**: vibe coding with Claude Code, Cursor and agent workflows is how I actually ship
-- ⚙️ Comfortable across the whole stack — Electron UI, privileged .NET workers, licensing APIs, Discord bots
+- 🖥️ I build **Windows optimization and system tooling**: desktop apps plus the backend services behind them
+- 🤖 I work **AI-first**. Vibe coding with Claude Code, Cursor and agent workflows is how I actually ship
+- ⚙️ Comfortable across the whole stack: Electron UI, privileged .NET workers, licensing APIs, Discord bots
 - 🏢 Building under **Dexsoftware**
-- 🔒 Most of my work lives in **private repositories** — several are commercial products
+- 🔒 Most of my work lives in **private repositories**, several of them commercial products
 
 ### 🛠️ Languages and Tools
 
@@ -54,6 +54,6 @@ Measured across my repositories:
 
 ### 🚀 What I'm building
 
-- **Desktop** — Electron + React clients that talk to a privileged .NET 8 worker for real system changes on Windows
-- **Backend** — licensing APIs, admin panels, hardware-bound activation, update distribution
-- **Automation** — Discord bots, deployment pipelines, agent-driven development workflows
+- **Desktop**: Electron + React clients that talk to a privileged .NET 8 worker for real system changes on Windows
+- **Backend**: licensing APIs, admin panels, hardware-bound activation, update distribution
+- **Automation**: Discord bots, deployment pipelines, agent-driven development workflows
