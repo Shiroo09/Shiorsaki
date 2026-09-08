@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shiorsaki</h1>
+<h1 align="center">Hi 👋, I'm Shiro</h1>
 <p align="center">Windows performance tooling &amp; desktop apps — shipped with AI-assisted vibe coding</p>
 
 ---
