@@ -57,7 +57,3 @@ Measured across my repositories:
 - **Desktop** — Electron + React clients that talk to a privileged .NET 8 worker for real system changes on Windows
 - **Backend** — licensing APIs, admin panels, hardware-bound activation, update distribution
 - **Automation** — Discord bots, deployment pipelines, agent-driven development workflows
-
----
-
-<p align="center"><i>Built with AI, verified by hand.</i></p>
