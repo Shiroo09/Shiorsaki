@@ -57,3 +57,12 @@ Measured across my repositories:
 - **Desktop**: Electron + React clients that talk to a privileged .NET 8 worker for real system changes on Windows
 - **Backend**: licensing APIs, admin panels, hardware-bound activation, update distribution
 - **Automation**: Discord bots, deployment pipelines, agent-driven development workflows
+
+
+---
+
+## Yedekler
+
+- [dersportali](https://github.com/Shiroo09/dersportali)
+- [dex](https://github.com/Shiroo09/dex)
+- [dexvds](https://github.com/Shiroo09/dexvds)
